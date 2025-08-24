@@ -62,13 +62,4 @@ AI-Powered-Resume-Cover-Letter-Generator/
 │── README.md         # Documentation
 ```
 
----
 
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first  
-to discuss what you would like to change.
-
----
-
-## 📜 License
-MIT License © 2025 Your Name
