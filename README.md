@@ -32,7 +32,7 @@ Built with **React + Vite + Tailwind + shadcn/ui**.
 
 4. **Create a `.env` file** in the project root and add your Gemini API key
    ```bash
-   VITE_GEMINI_API_KEY=your_api_key_here
+   GEMINI_API_KEY=your_api_key_here
    ```
 
 5. **Run the development server**
